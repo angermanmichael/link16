@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Michael Angerman
+tagline:          Angerman Resume
+url:              http://stormasm.github.io
+paginate:         1
+baseurl:          /link15/
+author:
+  name:           Michael Angerman
+  url:            http://michaelangerman.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/stormasm/link15

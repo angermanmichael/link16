@@ -11,7 +11,7 @@ title:            Michael Angerman
 tagline:          Angerman Resume
 url:              http://stormasm.github.io
 paginate:         1
-baseurl:          /link15/
+baseurl:          /link16/
 author:
   name:           Michael Angerman
   url:            http://michaelangerman.com
@@ -19,4 +19,4 @@ author:
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/stormasm/link15
+  repo:           https://github.com/stormasm/link16

@@ -4,6 +4,11 @@ title: Core Competencies
 permalink: /core/
 ---
 
+### React
+* [Redux](http://redux.js.org/)
+* [Reactabular](https://reactabular.js.org)
+* [Styled System](http://jxnblk.com/styled-system/)
+
 ### Blockchain Systems
 * [Ethereum](https://www.ethereum.org/)
 * [Noms](https://github.com/attic-labs/noms)

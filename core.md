@@ -39,4 +39,5 @@ permalink: /core/
 * [D3.js](http://d3js.org)
 * [Express](http://expressjs.com)
 * [jQuery](http://jquery.com)
+* [React](https://facebook.github.io/react/)
 * [Ruby on Rails](http://guides.rubyonrails.org/getting_started.html)

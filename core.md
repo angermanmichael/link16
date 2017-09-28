@@ -8,6 +8,8 @@ permalink: /core/
 * [Redux](http://redux.js.org/)
 * [Reactabular](https://reactabular.js.org)
 * [Styled System](http://jxnblk.com/styled-system/)
+* [D3](https://d3js.org/) for data graphs and visualization.
+* [Bootstrap](https://getbootstrap.com/) and [Pure.css](https://purecss.io/)
 
 ### Blockchain Systems
 * [Ethereum](https://www.ethereum.org/)

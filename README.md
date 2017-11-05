@@ -28,6 +28,7 @@ assuming the jekyll gem is already installed...
 
 If not then....
 
+```
 rvm gemset list
 rvm gemset create jekyll
 rvm gemset use jekyll

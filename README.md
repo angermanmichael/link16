@@ -37,6 +37,8 @@ bundle install
 rvm current
 ```
 
+##### Part III
+
 If you want to start from scratch with just jekyll and not this repo.
 
 We will keep the **jekyll** gemset in place and
@@ -54,11 +56,4 @@ Then to run this web site simply type this command:
 
 ```
 jekyll serve -P 3000
-```
-
-
-
-
-
-
 ```

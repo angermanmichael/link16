@@ -57,3 +57,9 @@ Then to run this web site simply type this command:
 ```
 jekyll serve -P 3000
 ```
+
+### Problems installing Nokogiri run this command
+
+```
+gem install nokogiri -- --use-system-libraries=true --with-xml2-include="$(xcrun --show-sdk-path)"/usr/include/libxml2
+```

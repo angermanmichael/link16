@@ -16,9 +16,9 @@ Notes on how to use Ruby correctly
 ruby version
 ```
 
-This is *NOT CORRECT* and will throw strange errors and actually
+This is **NOT CORRECT** and will throw strange errors and actually
 this whole idea of not knowing how to check the version correctly
-can cause a lot of GRIEF...
+can cause a lot of *GRIEF*
 
 ```
 ruby --version

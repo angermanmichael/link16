@@ -10,7 +10,7 @@ git checkout gh-pages
 rvm gemset use jekyll
 rvm current
 
-alias jekrun='jekyll serve -P 3000'
+alias jekgo='jekyll serve -P 3000'
 ```
 
 ##### Part II
@@ -21,7 +21,7 @@ To run any one of them cd into one of these directories and type:
 
 ```
 rvm gemset use jekyll
-jekrun
+jekgo
 ```
 
 assuming the jekyll gem is already installed...
@@ -56,14 +56,4 @@ Then to run this web site simply type this command:
 
 ```
 jekyll serve -P 3000
-```
-
-### Problems installing Nokogiri run this command
-
-```
-gem install nokogiri -- --use-system-libraries=true --with-xml2-include="$(xcrun --show-sdk-path)"/usr/include/libxml2
-```
-
-```
-gem install nokogiri -- --use-system-libraries=true --with-xml2-include=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/libxml2/
 ```

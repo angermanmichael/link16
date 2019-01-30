@@ -3,6 +3,29 @@
 Michael Angerman Projects
 http://stormasm.github.io/link16/
 
+##### Part Zero
+
+January 30, 2019
+
+For now, stick with Ruby 2.5.3 as version 2.6.X is
+broken with the new bundler...
+
+Notes on how to use Ruby correctly
+
+```
+ruby --version
+rvm list
+rvm use 2.5.3
+rvm current
+rvm gemset list
+rvm gemset create jekyll
+rvm gemset use jekyll
+rvm current
+```
+
+* On MacOs ruby comes preinstalled at */usr/bin/ruby*
+
+
 ##### Part I
 
 ```

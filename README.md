@@ -17,14 +17,20 @@ ruby --version
 rvm list
 rvm use 2.5.3
 rvm current
+
 rvm gemset list
+
+If Jekyll is not installed...
 rvm gemset create jekyll
+
 rvm gemset use jekyll
 rvm current
+
+gem install bundler
+bundle install
 ```
 
 * On MacOs ruby comes preinstalled at */usr/bin/ruby*
-
 
 ##### Part I
 
